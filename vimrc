@@ -15,7 +15,7 @@ scriptencoding utf-8
   " let g:noWrapLine = 1
 
   " 一个 TAB 占几个空格
-  let g:tabspace = 2
+  let g:tabspace = 4
   " 将输入的 Tab 自动展开成空格, 0 为展开, 1 为不展开
   " let g:noExpandtab = 0
   " 仅有在 noExpandtabList 里的文件类型不进行输入的 Tab 自动转化为相应数量空格
@@ -68,7 +68,7 @@ set cpo&vim
   " line number {
     set number              " 行号
     " Relative numbers on
-    if exists('&relativenumber') | set relativenumber  | endif
+    "if exists('&relativenumber') | set relativenumber  | endif  " 显示相对行号
   " }
 
   " cursor {
