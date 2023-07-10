@@ -8,12 +8,12 @@
 
 使用 curl 安装:  
 
-	$ curl https://raw.githubusercontent.com/MwumLi/mini-vim/master/vimrc > ~/.vimrc
+	$ curl https://raw.githubusercontent.com/Kinvy66/mini-vim/master/vimrc > ~/.vimrc
 
 使用 wget 安装:  
 
-	$ wget https://raw.githubusercontent.com/MwumLi/mini-vim/master/vimrc -O ~/.vimrc
+	$ wget https://raw.githubusercontent.com/Kinvy66/mini-vim/master/vimrc -O ~/.vimrc
 
 使用 git 克隆:  
 
-	$ git clone https://github.com/MwumLi/mini-vim && cp mini-vim/vimrc ~/.vimrc && rm -rf mini-vim
+	$ git clone https://github.com/Kinvy66/mini-vim && cp mini-vim/vimrc ~/.vimrc && rm -rf mini-vim
